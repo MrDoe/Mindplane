@@ -1,4 +1,4 @@
-# Asteroids like arcade game - controlled by Muse 2 headband
+# EEG arcade game - controlled by Muse 2 headband
 """
 Requirements: * muselsl library running in the background ('muselsl stream')
               * Muse headband (only tested with Muse 2 so far)
